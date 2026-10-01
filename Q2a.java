@@ -25,6 +25,6 @@ public class Q2a {
         Solution s = new Solution();
         int[] arr = {1, 2, 2, 3, 5, 5, 5, 8};
         System.out.println(s.lowerBound(arr, 5)); 
-        System.out.println(s.lowerBound(arr, 9)); 
+        System.out.println(s.lowerBound(arr, 9));
     }
 }
