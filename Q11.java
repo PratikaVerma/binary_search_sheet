@@ -1,7 +1,6 @@
  // Q4: Peak Index in a Mountain Array (Leetcode 852)
  // Time:O(log n), Space: 0(1)
  public class Q11 {
-
     static int peakIndexInMountainArray(int[] arr) {
         int low = 0;
         int high = arr.length - 1;
